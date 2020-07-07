@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RSAoutput</string>
+    <string name="run">Run</string>
+    <string name="str0">0</string>
+    <string name="niyuan">乘法逆元</string>
+    <string name="ax_by_gcd_a_b">ax+by=gcd(a,b)</string>
+    <string name="e">e</string>
+    <string name="phi_n">phi(n)</string>
+</resources>
